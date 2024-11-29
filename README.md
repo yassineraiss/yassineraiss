@@ -10,5 +10,9 @@ I'm @yassineraiss, a passionate Full Stack Developer specializing in Django and 
 # 🛠️ Tech Stack
 - **Frontend**: React, Vite, HTML5, CSS3, Sass  
 - **Backend**: Django, Python, PostgreSQL  
-- **Tools & Platforms**: Docker, AWS (EC2, Elastic Beanstalk), Git, GitHub, Nginx  
-- **Other Skills**: REST APIs, Authentication Systems, WebSocket Implementation
+- **Tools & Platforms**: Docker, AWS (EC2s), Git, GitHub, Nginx  
+- **Other Skills**: REST APIs, Authentication Systems, WebSocket Implementation, Responsive Design.
+
+# 📚 Projects
+## NetRaiss:
+  - A twitter like social media platform where users can share their thoughts with their friends.
